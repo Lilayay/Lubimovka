@@ -1,0 +1,15 @@
+.spectacle__name {
+  margin: 0;
+  padding: 0;
+  line-height: 38px;
+  font-size: 36px;
+  font-family: "Neue Machina";
+}
+
+
+@media screen and (max-width: 600px) {
+  .spectacle__name {
+    line-height: 32px;
+    font-size: 28px;
+  }
+}
