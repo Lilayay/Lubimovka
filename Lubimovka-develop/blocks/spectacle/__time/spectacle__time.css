@@ -1,0 +1,14 @@
+.spectacle__time {
+  margin: 0;
+  padding-left: 46px;
+}
+
+.spectacle__time:first-child {
+  padding-left: 0;
+}
+
+@media screen and (max-width: 984px) {
+  .spectacle__time {
+    padding-left: 42px;
+  }
+}

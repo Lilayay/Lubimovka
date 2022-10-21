@@ -1,0 +1,14 @@
+.spectacle {
+  margin: 0;
+  display: flex;
+}
+
+.spectacle:first-child {
+  padding-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .spectacle {
+    padding-top: 0px;
+  }
+}

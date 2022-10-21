@@ -1,0 +1,4 @@
+.spectacles {
+  display: flex;
+  flex-direction: column;
+}

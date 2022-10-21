@@ -1,0 +1,17 @@
+.intro {
+  width: 100%;
+  background-color: #B7C09D;
+  padding-top: 79px;
+}
+
+@media screen and (max-width: 984px) {
+  .intro {
+    padding-top: 56px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .intro {
+    padding-top: 56px;
+  }
+}

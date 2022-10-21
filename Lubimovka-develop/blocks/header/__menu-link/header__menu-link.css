@@ -1,0 +1,7 @@
+.header__menu-link {
+  text-decoration: none;
+}
+
+.header__menu-link:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,14 @@
+.person {
+  margin: 0;
+  display: flex;
+}
+
+.person:first-child {
+  padding-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .person {
+    padding-top: 0px;
+  }
+}

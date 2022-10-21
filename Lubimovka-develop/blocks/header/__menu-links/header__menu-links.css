@@ -1,0 +1,11 @@
+.header__menu-links {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 600px) {
+  .header__menu-links {
+    display: none;
+  }
+}

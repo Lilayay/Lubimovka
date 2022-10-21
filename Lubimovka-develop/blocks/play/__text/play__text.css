@@ -1,0 +1,10 @@
+.play__text {
+  max-width: 240px;
+  margin:0;
+}
+
+@media screen and (max-width: 600px) {
+  .play__text {
+    max-width: 253px;
+  }
+}

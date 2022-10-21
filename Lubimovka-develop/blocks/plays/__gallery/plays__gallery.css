@@ -1,0 +1,14 @@
+.plays__gallery {
+  padding: 0;
+  margin: 0 60px 0 60px;
+  display:flex;
+  flex-direction:row;
+  max-width:1440px;
+}
+
+@media screen and (max-width: 600px) {
+  .plays__gallery {
+    padding: 0;
+    margin: 0 auto;
+  }
+}
