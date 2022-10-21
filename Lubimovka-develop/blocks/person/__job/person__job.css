@@ -1,4 +1,8 @@
 .person__job {
   line-height: 22px;
   font-size: 16px;
+  max-width:177px;
+  margin-left: auto;
+  font-weight: 300;
+
 }

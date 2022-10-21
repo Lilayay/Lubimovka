@@ -1,6 +1,7 @@
 .persons__gallery {
   padding: 0;
   margin: 0 auto;
+  display:flex;
 }
 
 @media screen and (max-width: 600px) {
