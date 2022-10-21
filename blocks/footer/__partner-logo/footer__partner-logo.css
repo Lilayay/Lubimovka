@@ -1,0 +1,8 @@
+.footer__partner-logo {
+  transition: opacity 1s ease-out;
+}
+
+.footer__partner-logo:hover {
+  opacity:0.3;
+}
+

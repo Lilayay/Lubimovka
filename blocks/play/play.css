@@ -1,0 +1,14 @@
+.play {
+  margin: 0;
+  display: flex;
+}
+
+.play:first-child {
+  padding-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .play {
+    padding-top: 0px;
+  }
+}

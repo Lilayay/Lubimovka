@@ -1,0 +1,4 @@
+.footer__authors {
+  display: flex;
+  justify-content: space-between;
+}

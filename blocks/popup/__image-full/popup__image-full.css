@@ -1,0 +1,4 @@
+.popup__image-full {
+  object-fit: cover;
+  position: relative;
+}

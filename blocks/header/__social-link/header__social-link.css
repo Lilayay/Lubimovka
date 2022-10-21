@@ -1,0 +1,7 @@
+.header__social-link {
+  text-decoration: none;
+}
+
+.header__social-link:hover {
+  opacity: 0.8;
+}

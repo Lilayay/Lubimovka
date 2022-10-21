@@ -1,0 +1,16 @@
+.video {
+  margin: 0;
+  padding-top: 0;
+}
+
+@media screen and (max-width: 984px) {
+  .video {
+    padding-top: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .video {
+    padding-top: 0;
+  }
+}

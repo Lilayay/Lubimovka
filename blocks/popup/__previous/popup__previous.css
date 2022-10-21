@@ -1,0 +1,9 @@
+.popup__previous {
+  background-color: transparent;
+  position: absolute;
+  cursor: pointer;
+}
+
+.popup__previous:hover {
+  opacity: 0.5;
+}

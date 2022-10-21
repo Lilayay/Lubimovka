@@ -1,0 +1,10 @@
+.spectacle__text {
+  max-width: 269px;
+}
+
+@media screen and (max-width: 600px) {
+  .spectacle__text {
+    margin: 0 auto;
+    max-width: 243px;
+  }
+}
